@@ -1182,7 +1182,6 @@ footer a:hover {
     width: 100%;
   }
 
-  /* Circles chart */
   .c50 { width: 80px; height: 80px; }
   .c40 { width: 60px; height: 60px; }
   .c25 { width: 45px; height: 45px; }
@@ -1190,19 +1189,16 @@ footer a:hover {
   .c2  { width: 22px; height: 22px; }
   .color.c { width: 14px; height: 14px; }
 
-  /* Workflow */
   .box-dec {
     flex-direction: column;
     gap: 5px;
     padding: 10px 5px;
   }
 
-  /* Stats */
   .sec7-box h3 {
     font-size: 30px;
   }
 
-  /* Footer */
   .foot-text {
     font-size: 15px;
   }
